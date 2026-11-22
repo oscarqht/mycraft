@@ -1,0 +1,6 @@
+{
+  "name": "VoxelCraft",
+  "description": "An infinite procedural 3D Minecraft clone with 90+ blocks, multi-noise biomes, deep oceans, mountain ranges, 3D caves, and Creative & Survival modes with crafting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
